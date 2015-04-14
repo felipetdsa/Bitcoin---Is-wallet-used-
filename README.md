@@ -1,3 +1,6 @@
+by felipetdsa
+email: felipetdsa@gmail.com
+
 # Bitcoin---Is-wallet-used-
 Verify wallets from a text file if any wallet was used yet.
 
